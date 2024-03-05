@@ -23,16 +23,16 @@ This was created for Project 2 of SWEN20003 Semester 1, 2023 at The University o
 
 This shows the planning process before I started coding.
 
-![Alt text](./uml-diagram.svg)
+![Project's UML Diagram](./uml-diagram.png)
 
 
 # Game Screenshots
 
 ## Level 1
-![Alt text](./screenshots/level-1.png)
+![Game Level 1 - Stationary Enemies](./screenshots/level-1.png)
 
 ## Level 2
-![Alt text](./screenshots/level-2.png)
+![Game Level 2 - Moving Enemies with new Edibles](./screenshots/level-2.png)
 
 ## Level 2 - Pacman can eat enemies
-![Alt text](./screenshots/level-2-edible-enemies.png)
+![Game Level 2 - Vulnerable Enemies](./screenshots/level-2-edible-enemies.png)
