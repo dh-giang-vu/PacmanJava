@@ -22,6 +22,7 @@ This was created for Project 2 of SWEN20003 Semester 1, 2023 at The University o
 # UML Diagram 
 
 This shows the planning process before I started coding.
+
 ![Alt text](./uml-diagram.svg)
 
 
