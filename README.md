@@ -13,8 +13,25 @@ This was created for Project 2 of SWEN20003 Semester 1, 2023 at The University o
     * grabbing the coin provides pacman the ability to eat enemies
 
 
+# What I Learned
+* Object-Oriented Programming using Java
+* Real application of Inheritance and Java Interfaces
+* Using Maven to manage dependencies
+
+
 # UML Diagram 
 
+This shows the planning process before I started coding.
 ![Alt text](./uml-diagram.svg)
 
+
 # Game Screenshots
+
+## Level 1
+![Alt text](./screenshots/level-1.png)
+
+## Level 2
+![Alt text](./screenshots/level-2.png)
+
+## Level 2 - Pacman can eat enemies
+![Alt text](./screenshots/level-2-edible-enemies.png)
