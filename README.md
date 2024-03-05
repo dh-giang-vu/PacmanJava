@@ -21,7 +21,8 @@ This was created for Project 2 of SWEN20003 Semester 1, 2023 at The University o
 
 # UML Diagram 
 
-This shows the planning process before I started coding.
+This shows the planning process before I started coding.\
+See [svg version](./uml-diagram.svg) or [pdf version](./uml-diagram.pdf) for clearer view.
 
 ![Project's UML Diagram](./uml-diagram.png)
 
